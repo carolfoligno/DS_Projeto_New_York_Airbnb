@@ -1,4 +1,4 @@
-# PROJETO - NEW YORK AIRBNB
+# PROJETO - INSIGHTS DE DADOS DE NEW YORK AIRBNB
 <p align="center">
   <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/340/682/products/quadro-decorativo-mapa-mundi-minimalista-ae049724f9be00cb8d16059656824615-640-0.jpg"  width="300" height="300">
 </p>
